@@ -16,8 +16,6 @@ Ecommerce retail: This is a transnational data set which contains all the transa
 
 Segmentation: 2 columns (Segment; RFM score)
 
-## Data Visualization with Python
-
 ## Insights
   - The company has a significant number of Champions, Loyal, and Potential Loyalist customers. This indicates that the company is doing well in retaining current customers and attracting new ones.
   - Additionally, there is a noteworthy number of At Risk and Can't Lose Them customers. These customers have previously spent a substantial amount and made frequent purchases but have not made any purchases from the company for a considerable period. These high-value customers require reactivation strategies.
@@ -36,7 +34,7 @@ Segmentation: 2 columns (Segment; RFM score)
   - Stimulation and Development Strategy:
     Provide special discounts for customer groups making higher-value purchases or shopping frequently within a specific timeframe.
     Encourage customers to accumulate points and receive more benefits through regular shopping.
-    Promote participation in similar programs to enhance loyalty and reduce shipping costs.
+    Promote participation to enhance loyalty and reduce shipping costs.
     Based on shopping history and personal preferences, offer personalized product suggestions and information about special promotional programs.
     Notify customers about upcoming products, services, or events that may interest them.
     Product Reviews and Ratings: Send reminder emails to encourage customers to review and rate previously purchased products to foster interaction and increase engagement.
